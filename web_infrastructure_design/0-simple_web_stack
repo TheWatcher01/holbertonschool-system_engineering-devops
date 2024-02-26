@@ -1,0 +1,25 @@
+                                    [User]
+                                      |
+                                      |
+                                      v
+                                  [Internet]
+                                      |
+                                      |
+                                      v
+                                 [DNS Server]
+                                      |
+                                      |
+                                      v
+                                [Nginx Server]
+                                      |
+                                      |
+                                      v
+                                 [Code Base]
+                                      |
+                                      |
+                                      v
+                                 [App Server]
+                                      |
+                                      |
+                                      v
+                                 [DB Server]
